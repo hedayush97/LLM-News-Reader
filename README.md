@@ -21,7 +21,7 @@ This chatbot is a user-friendly news research tool designed for effortless infor
 1. **Clone this repository to your local machine:**
 
     ```bash
-    git clone [https://github.com/hedaayush97/LLM-News-Reader.git](https://github.com/hedayush97/LLM-News-Reader)
+    git clone https://github.com/hedayush97/LLM-News-Reader
     ```
 
 2. **Navigate to the project directory:**

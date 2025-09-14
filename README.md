@@ -2,7 +2,7 @@
 
 This chatbot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](Output.jpg)
+![](Output.png)
 
 ---
 
@@ -21,7 +21,7 @@ This chatbot is a user-friendly news research tool designed for effortless infor
 1. **Clone this repository to your local machine:**
 
     ```bash
-    git clone https://github.com/hedaayush97/llmproject.git
+    git clone https://github.com/hedaayush97/LLM-News-Reader.git
     ```
 
 2. **Navigate to the project directory:**

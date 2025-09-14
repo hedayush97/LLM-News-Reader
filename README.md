@@ -1,7 +1,7 @@
-# LLM-News-Reader
 
+# News Research Tool 
 
-This is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
 ![](Output.jpg)
 
@@ -18,9 +18,12 @@ This is a user-friendly news research tool designed for effortless information r
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/hedaayush97/LLM-News-Reader.git
+  git clone https://github.com/hedaayush97/llmproject.git
 ```
+2.Navigate to the project directory:
 
+```bash
+  cd 2_news_research_tool_project
 ```
 3. Install the required dependencies using pip:
 
